@@ -1,13 +1,13 @@
-title: kakao 기술 블로그
-email: opensource@kakaocorp.com
+title: 새싹 스터디 기술 블로그
+email: econovation2017@gmail.com
 description: |
   Connect Everything 새로운 연결, 새로운 세상.
   연결의 혁신으로 세상은 더욱 가깝고 새로워진다고 카카오는 믿습니다.
 baseurl: ''
-url: 'http://tech.kakao.com'
+url: 'http://sproutt.github.io'
 timezone: Asia/Seoul 
 
-repository: kakao/kakao.github.io
+repository: sproutt/sproutt.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -57,12 +57,12 @@ asset_url: /assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 google_analytics:
   ua: 'UA-72007721-1'
-facebook:
-  app_id: '1204347326263800'
-  username: nkakao
-twitter:
-  username: kakaodev
-google_plus:
-  username: kakaodev
-github_url:
-  username: kakao
+#facebook:
+#  app_id: '1204347326263800'
+#  username: nkakao
+#twitter:
+#  username: kakaodev
+#google_plus:
+#  username: kakaodev
+#github_url:
+#  username: kakao
